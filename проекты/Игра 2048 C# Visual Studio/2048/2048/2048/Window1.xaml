@@ -1,0 +1,28 @@
+﻿<Window x:Class="_2048.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2048"
+        mc:Ignorable="d"
+        x:Name="DifficultySelection"
+        Title="2048" Height="400" Width="360">
+    <!--<Grid Margin="0,-22,2,-2"/>-->
+    <DockPanel Background="Black">
+        <!--<TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center"
+                   >Baka</TextBlock>-->
+        <TextBox Name="Nickname" DockPanel.Dock="Top" Padding="10" HorizontalContentAlignment="Center" IsReadOnly="True" Background="Yellow" Height="46" FontFamily="Times New Roman" FontSize="18">Baka</TextBox>
+        <Grid Background="Black" Margin="0,45,0,39">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="25*"/>
+            </Grid.RowDefinitions>
+            <Button Click="DifficultyStart4x4_Click" Name="DifficultyStart4x4" Grid.Row="0" Padding="6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="210" Background="Yellow" BorderBrush="#FFFFC762" BorderThickness="4" FontSize="18" FontWeight="DemiBold">4 x 4</Button>
+            <Button Click="DifficultyStart6x6_Click" Name="DifficultyStart6x6" Grid.Row="1" Padding="6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="210" Background="Yellow" BorderBrush="#FFFFC762" BorderThickness="4" FontSize="18" FontWeight="DemiBold">6 x 6</Button>
+            <Button Click="DifficultyStart8x8_Click" Name="DifficultyStart8x8" Grid.Row="2" Padding="6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="210" Background="Yellow" BorderBrush="#FFFFC762" BorderThickness="4" FontSize="18" FontWeight="DemiBold">8 x 8</Button>
+            <Button Click="Back_Click" Name="Back"  Grid.Row="3" Padding="6" HorizontalAlignment="Center" VerticalAlignment="Center" Height="50" Width="210" Background="Yellow" BorderBrush="#FFFFC762" BorderThickness="4" FontSize="18" FontWeight="DemiBold">Назад</Button>
+        </Grid>
+    </DockPanel>
+</Window>

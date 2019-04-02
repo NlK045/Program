@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7df704f1b7f52374a8f2bdf9d985eadb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainUI: {fileID: 11400000, guid: 6aeaa618d371e274f86b643f00b302c6, type: 2}
+  - pictureSelectObject: {instanceID: 0}
+  - pictureDefault: {fileID: 2800000, guid: c7da68fc6d26b7a4a97eb20b9651723b, type: 3}
+  - map: {fileID: 8400000, guid: cf0e2736447445243a22df06e42efa95, type: 2}
+  - mat: {fileID: 2100000, guid: 7d77d658f4bd78341886a225d7024bf9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

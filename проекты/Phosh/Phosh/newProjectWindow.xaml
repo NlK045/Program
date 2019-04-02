@@ -1,0 +1,53 @@
+﻿<Window x:Class="Phosh.newProjectWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:xctk ="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Phosh"
+        mc:Ignorable="d"
+        Title="newProjectWindow" Height="280" Width="500" Closed="Window_Closed" WindowStartupLocation="CenterScreen">
+    <Grid
+        x:Name="mainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.3*"></RowDefinition>
+            <RowDefinition Height="0.7*"></RowDefinition>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label
+            x:Name="ProjectTitle"
+            Grid.Row="0" Grid.ColumnSpan="3"></Label>
+        <TextBox x:Name="ProjectName" Grid.Row="1" TabIndex="0" Grid.ColumnSpan="3" Margin="10 20 10 10"
+                 VerticalContentAlignment="Center" FontSize="20"></TextBox>
+        <Grid
+            x:Name="boxGrid"
+            Grid.Row="2" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.4*"></ColumnDefinition>
+                <ColumnDefinition Width="0.6*"></ColumnDefinition>
+                <ColumnDefinition Width="0.25*"></ColumnDefinition>
+                <ColumnDefinition Width="0.6*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label 
+                x:Name="newWidthLabel"
+                Content="Ширина" TabIndex="1" Grid.Column="0" FontSize="16" Margin="0 10 0 10"></Label>
+            <Label 
+                x:Name="newHeightLabel"
+                Content="Высота" TabIndex="2" Grid.Column="2" FontSize="16" Margin="0 10 0 10"></Label>
+            <TextBox x:Name="WidthDoc" Grid.Column="1" Margin="0 10 0 10" VerticalContentAlignment="Center" 
+            FontSize="20" KeyDown="InputSize"></TextBox>
+            <TextBox x:Name="HeightDoc" Grid.Column="3" Margin="0 10 5 10" VerticalContentAlignment="Center" FontSize="20" KeyDown="InputSize"></TextBox>
+        </Grid>
+        <Label Grid.Row="0" Grid.ColumnSpan="2" Content="Введите название" FontSize="18" Margin="5 0 0 0"></Label>
+        <Button x:Name="AccessButton" Content="ОК" Grid.Row="3" Grid.Column="3" 
+                Background="White" Margin="20 30 20 30" Click="AccessButton_Click"></Button>
+        <xctk:ColorPicker x:Name="ColorPicker" UsingAlphaChannel="False" SelectedColor="Black" Grid.Row="3" Grid.Column="0" 
+        Margin="30, 20, 30, 20" ShowStandardColors="False" Height="30" Background="White"></xctk:ColorPicker>
+    </Grid>
+</Window>

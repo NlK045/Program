@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record>
+    <Log>[Nickname]</Log>
+    <Tip>4x4</Tip>
+    <Exp>0</Exp>
+    <Time>Время игры: 0:00</Time>
+  </Record>
+  <Record>
+    <Log>[Nickname]</Log>
+    <Tip>8x8</Tip>
+    <Exp>8838</Exp>
+    <Time>Время игры: 2:51</Time>
+  </Record>
+</ArrayOfRecord>

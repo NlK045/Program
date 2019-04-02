@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authorization.resources
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Admin.resources
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Client.resources
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Worker.resources
+C:\Users\User\Desktop\ \Базы данных ОП 02 01\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reg.resources

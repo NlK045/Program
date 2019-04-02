@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 3cc9a9e64dc9a784f8d5d46204d1d2e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Back
+    100006: Back_Leg_1
+    100008: Back_Leg_1_1
+    100010: Back_Leg_1_2
+    100012: Back_Leg_1_3
+    100014: Back_Leg_1_4
+    100016: Back_Leg_1_4_end
+    100018: Back_Leg_2
+    100020: Back_Leg_3
+    100022: Back_Leg_4
+    100024: Back_Leg_4_end
+    100026: Body_1
+    100028: Body_2
+    100030: Body_3
+    100032: Camera
+    100034: Fire_Ant
+    100036: Front_Leg_1
+    100038: Front_Leg_1_1
+    100040: Front_Leg_1_2
+    100042: Front_Leg_1_3
+    100044: Front_Leg_1_4
+    100046: Front_Leg_1_4_end
+    100048: Front_Leg_2
+    100050: Front_Leg_3
+    100052: Front_Leg_4
+    100054: Front_Leg_4_end
+    100056: Head
+    100058: Head.001
+    100060: Head.002
+    100062: Head.003
+    100064: Head.003_end
+    100066: Head.004
+    100068: Head.004_end
+    100070: Lamp
+    100072: Middle_Leg_1
+    100074: Middle_Leg_1_1
+    100076: Middle_Leg_1_2
+    100078: Middle_Leg_1_3
+    100080: Middle_Leg_1_4
+    100082: Middle_Leg_1_4_end
+    100084: Middle_Leg_2
+    100086: Middle_Leg_3
+    100088: Middle_Leg_4
+    100090: Middle_Leg_4_end
+    100092: Mustache
+    100094: Mustache1
+    100096: Mustache12
+    100098: Mustache12_end
+    100100: Mustache2
+    100102: Mustache2_end
+    400000: //RootNode
+    400002: Armature
+    400004: Back
+    400006: Back_Leg_1
+    400008: Back_Leg_1_1
+    400010: Back_Leg_1_2
+    400012: Back_Leg_1_3
+    400014: Back_Leg_1_4
+    400016: Back_Leg_1_4_end
+    400018: Back_Leg_2
+    400020: Back_Leg_3
+    400022: Back_Leg_4
+    400024: Back_Leg_4_end
+    400026: Body_1
+    400028: Body_2
+    400030: Body_3
+    400032: Camera
+    400034: Fire_Ant
+    400036: Front_Leg_1
+    400038: Front_Leg_1_1
+    400040: Front_Leg_1_2
+    400042: Front_Leg_1_3
+    400044: Front_Leg_1_4
+    400046: Front_Leg_1_4_end
+    400048: Front_Leg_2
+    400050: Front_Leg_3
+    400052: Front_Leg_4
+    400054: Front_Leg_4_end
+    400056: Head
+    400058: Head.001
+    400060: Head.002
+    400062: Head.003
+    400064: Head.003_end
+    400066: Head.004
+    400068: Head.004_end
+    400070: Lamp
+    400072: Middle_Leg_1
+    400074: Middle_Leg_1_1
+    400076: Middle_Leg_1_2
+    400078: Middle_Leg_1_3
+    400080: Middle_Leg_1_4
+    400082: Middle_Leg_1_4_end
+    400084: Middle_Leg_2
+    400086: Middle_Leg_3
+    400088: Middle_Leg_4
+    400090: Middle_Leg_4_end
+    400092: Mustache
+    400094: Mustache1
+    400096: Mustache12
+    400098: Mustache12_end
+    400100: Mustache2
+    400102: Mustache2_end
+    2000000: Camera
+    2100000: Fire_Ant_Default
+    4300000: Fire_Ant
+    7400000: Walk
+    7400002: Stand
+    7400004: Attack
+    7400006: Armature|Attack
+    7400008: Armature|Stand
+    7400010: Armature|Walk
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Fire_Ant
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

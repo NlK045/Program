@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\User\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\User\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\2048\2048\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\2048\2048\obj\Debug\App.g.cs
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048_MarkupCompile.cache
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048_MarkupCompile.lref
+C:\Users\User\source\repos\2048\2048\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.g.resources
+C:\Users\User\source\repos\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\User\source\repos\2048\2048\obj\Debug\2048.pdb
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window1.g.cs
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window2.g.cs
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window3.g.cs
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window1.baml
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window2.baml
+C:\Users\User\source\repos\2048\2048\obj\Debug\Window3.baml
+C:\Users\NikoSan\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\NikoSan\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\NikoSan\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\MainWindow.g.cs
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window1.g.cs
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window2.g.cs
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window3.g.cs
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\App.g.cs
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048_MarkupCompile.cache
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048_MarkupCompile.lref
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\MainWindow.baml
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window1.baml
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window2.baml
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\Window3.baml
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048.g.resources
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\NikoSan\source\repos\2048\2048\obj\Debug\2048.pdb
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\bin\Debug\2048.exe.config
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\bin\Debug\2048.exe
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\bin\Debug\2048.pdb
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window2.g.cs
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window3.g.cs
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\App.g.cs
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048_MarkupCompile.cache
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048_MarkupCompile.lref
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window1.baml
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window2.baml
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\Window3.baml
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.g.resources
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.exe
+C:\Users\User\Desktop\игра 2048\2048\2048\2048\obj\Debug\2048.pdb

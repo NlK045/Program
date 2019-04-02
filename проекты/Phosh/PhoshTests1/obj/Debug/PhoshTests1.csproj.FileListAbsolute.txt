@@ -1,0 +1,13 @@
+E:\WPF\Phosh\PhoshTests1\obj\Debug\PhoshTests1.csprojResolveAssemblyReference.cache
+E:\WPF\Phosh\PhoshTests1\obj\Debug\PhoshTests1.csproj.CoreCompileInputs.cache
+E:\WPF\Phosh\PhoshTests1\bin\Debug\PhoshTests1.dll
+E:\WPF\Phosh\PhoshTests1\bin\Debug\PhoshTests1.pdb
+E:\WPF\Phosh\PhoshTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\WPF\Phosh\PhoshTests1\bin\Debug\Phosh.exe
+E:\WPF\Phosh\PhoshTests1\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\WPF\Phosh\PhoshTests1\bin\Debug\Phosh.pdb
+E:\WPF\Phosh\PhoshTests1\bin\Debug\Phosh.exe.config
+E:\WPF\Phosh\PhoshTests1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\WPF\Phosh\PhoshTests1\obj\Debug\PhoshTests1.csproj.CopyComplete
+E:\WPF\Phosh\PhoshTests1\obj\Debug\PhoshTests1.dll
+E:\WPF\Phosh\PhoshTests1\obj\Debug\PhoshTests1.pdb
